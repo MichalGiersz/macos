@@ -1,0 +1,37 @@
+thead{
+	background-image: url(tapetamacos.jpg); 
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+*{
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+
+.tabelamenu{
+	background-color:#546E7A;
+	color:#C7C7C7;
+	width: 20%;
+	font-size: 19px;
+	
+}
+.tabelatresc{
+	background-color: #90A4AE;
+	color:#E9E9E9;
+	font-size: 16px;
+}
+
+tfoot{
+	background-color:#ECEFF1;
+	color:#607D8B;
+}
+
+a{
+	text-decoration: none;
+	line-height: 1.4;
+}
+.wyjatek{
+	color:#546E7A;
+}
+
+
